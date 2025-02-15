@@ -22,24 +22,6 @@ The project aims to provide a handy and reliable tool for naturalists to capture
 - **Frontend**: HTML templates for user interaction
 - **Development Environment**: Jupyter Notebook, Spyder IDE
 
-### Installation and Setup  
-1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/digital-naturalist-cnn.git
-```
-2. Navigate to the project directory:  
-```bash
-cd digital-naturalist-cnn
-```
-3. Install the required dependencies:  
-```bash
-pip install -r requirements.txt
-```
-4. Run the application:  
-```bash
-python app.py
-```
-
 ### Usage  
 - Upload an image of a bird, flower, or mammal.
 - The app will process the image using the trained CNN model.
