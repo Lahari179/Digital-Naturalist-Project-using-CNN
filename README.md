@@ -1,5 +1,4 @@
 
-### GitHub README Description:  
 
 # Digital Naturalist Using CNN  
 
